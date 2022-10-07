@@ -70,7 +70,7 @@ textarea {
 }
 
 .message {
-  padding: 20px;
+  padding: 10px 20px;
   border-radius: 4px;
   margin-bottom: 40px;
   max-width: 300px;
