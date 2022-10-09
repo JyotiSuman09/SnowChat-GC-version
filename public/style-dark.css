@@ -103,3 +103,13 @@ textarea {
 .incoming h4 {
     left: 0;
 }
+
+
+::-webkit-scrollbar{
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #565656;
+  border-radius: 3px;
+}
